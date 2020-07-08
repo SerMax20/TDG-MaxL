@@ -1,5 +1,5 @@
-# Help and Support [Admin](https://telegram.dog/MaxxRider)
-# working example group [Leech Here](https://telegram.dog/joinchat/OV5y_FarWaGaNYUIYr6J9w)
+# Help and Support [Admin](https://telegram.dog/)
+# working example group [Leech Here](https://telegram.dog/joinchat/)
 
 # Telegram Torrent Leecher 🔥🤖
 
@@ -192,10 +192,6 @@ the file will be uploaded as `new.txt`.
 
 * send any one of the available command, as a reply to a valid link.
 
-* if file is larger than 1500MB, [read this](https://t.me/c/1434259219/113).
+* if file is larger than 2000MB, [read this](https://t.me/c/1434259219/113).
 
 * if file is a TAR archive, [read this](https://t.me/c/1434259219/104) to know how to uncompress.
-
-
-## JOIN MY ALL CHANNEL
-* [MOVIE HINDII](https://t.me/joinchat/AAAAAFfWz-izyEXi-mpiQQ) 
