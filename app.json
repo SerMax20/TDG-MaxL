@@ -113,8 +113,6 @@
   }, {
     "url": "https://github.com/HasibulKabir/heroku-buildpack-rarlab"
   }, {
-    "url": "https://github.com/wrenfairbank/telegram_gcloner"
-  }, {
     "url": "heroku/python"
   }],
   "formation": {
