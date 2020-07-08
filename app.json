@@ -1,6 +1,6 @@
 {
   "name": "Telegram Torrent Leecher",
-  "description": "A Telegram Torrent (and youtube-dl) Leecher based on Pyrogram. Powered by @torrentleechgdrivesupport!",
+  "description": "Telegram Torrent Leecher",
   "keywords": [
     "telegram",
     "best",
@@ -112,6 +112,8 @@
     "url": "https://github.com/amivin/rclone-heroku"
   }, {
     "url": "https://github.com/HasibulKabir/heroku-buildpack-rarlab"
+  }, {
+    "url": "https://github.com/wrenfairbank/telegram_gcloner"
   }, {
     "url": "heroku/python"
   }],
